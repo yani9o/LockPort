@@ -1,7 +1,8 @@
 # LockPort
+
 LockPort. Easy warlock summoning for turtle wow.
 
-Addon orginally written by Gurky. I am just rehosting it.
+Addon orginally written by Gurky.
 
 ## Requirments
 
@@ -27,3 +28,4 @@ Addon orginally written by Gurky. I am just rehosting it.
 - /lockport shards - Enables or Disables shard count message when you summon.
 - /lockport settings - Opens the settings window.
 - /lockport sound - Enables or Disables the sound on summon request.
+
